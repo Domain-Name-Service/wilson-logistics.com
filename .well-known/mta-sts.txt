@@ -1,4 +1,4 @@
 version: STSv1
 mode: none
 mx: mx.domainame.services
-max_age: 0
+max_age: 1
