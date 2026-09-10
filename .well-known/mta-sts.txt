@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: none
 mx: mx.domainame.services
-max_age: 600
+max_age: 0
